@@ -10,6 +10,7 @@ _dir_list = [
     "reports",
     "src/projectname/data",
     "src/projectname/model",
+    "src/projectname/trainer",
     "src/projectname/visualization",
 ]
 
@@ -19,6 +20,7 @@ _file_list = [
     "src/projectname/__init__.py",
     "src/projectname/data/__init__.py",
     "src/projectname/model/__init__.py",
+    "src/projectname/trainer/__init__.py",
     "src/projectname/visualization/__init__.py",
 ]
 
